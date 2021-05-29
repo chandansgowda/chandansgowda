@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/chandansgowdru" target="blank"><img src="https://img.shields.io/twitter/follow/chandansgowdru?logo=twitter&style=for-the-badge" alt="chandansgowdru" /></a> </p>
 
-- 🔭 I’m currently working on **eClassroom**
+- 🔭 I’m currently working on **pgfy**
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 🌱 I’m currently learning **AI and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandansgowda](https://github.com/chandansgowda)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **chandansuresh007@gmail.com**
 
-- ⚡ Fun fact **Anry Bird**
+- ⚡ Fun fact **Angry Bird**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
