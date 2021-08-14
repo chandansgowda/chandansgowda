@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/chandansgowdru" target="blank"><img src="https://img.shields.io/twitter/follow/chandansgowdru?logo=twitter&style=for-the-badge" alt="chandansgowdru" /></a> </p>
 
-- 🔭 I’m currently working on **pgfy**
+- 🔭 I’m currently working on **PGfy**
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandansgowda](https://github.com/chandansgowda)
 
 - 📝 I regularly write articles on [www.uniquota.in](www.uniquota.in)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Entrepreneurship, Programming, Time Management**
 
 - 📫 How to reach me **chandansuresh007@gmail.com**
 
-- ⚡ Fun fact **Angry Bird**
+- ⚡ Fun fact **People call me Angry Bird**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
