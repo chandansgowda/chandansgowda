@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **chandansuresh007@gmail.com**
 
-- ⚡ Fun fact **People call me Angry Bird**
+- ⚡ Fun fact **I cant stay single! Programming has always been one my girlfriends 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
