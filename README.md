@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **chandansuresh007@gmail.com**
 
-- ⚡ Fun fact **I can't stay single! Programming has always been one of my girlfriends 😂**
+- ⚡ Fun fact **I can't stay single! Tech has always been one of my girlfriends 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
