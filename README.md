@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/chandansgowdru" target="blank"><img src="https://img.shields.io/twitter/follow/chandansgowdru?logo=twitter&style=for-the-badge" alt="chandansgowdru" /></a> </p>
 
-- 🔭 I’m currently working on **Pgfy
+- 🔭 I’m currently working on **Pgfy**
 
-- 🌱 I’m currently learning **CP and Flutter
+- 🌱 I’m currently learning **CP and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandansgowda](https://github.com/chandansgowda)
 
