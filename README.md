@@ -19,7 +19,9 @@
 
 - 📫 How to reach me **chandansuresh007@gmail.com**
 
-- ⚡ Fun fact **I can't stay single! Tech has always been one of my girlfriends 😂**
+- ⚡ Fact from EXP **At Some Point, you have to realize that some people can stay in your heart, but not in your life. **
+
+- Goals till next birthday ** 6 Star on Codechef and 15 Apps on Play Store**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
