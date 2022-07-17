@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandansgowda" alt="chandansgowda" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/chandansgowdru" target="blank"><img src="https://img.shields.io/twitter/follow/chandansgowdru?logo=twitter&style=for-the-badge" alt="chandansgowdru" /></a> </p>
 
 - 🔭 I’m currently working on **Pgfy**
@@ -13,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandansgowda](https://github.com/chandansgowda)
 
-- 📝 I regularly write articles on [www.richengineer.in](www.richengineer.in)
+- 📽️ I regularly upload videos on [https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg](My Youtube Channel)
 
 - 💬 Ask me about **Entrepreneurship, Programming, CyberSec**
 
-- 📫 How to reach me **chandansuresh007@gmail.com**
+- 📫 How to reach me **chandansgowda167@gmail.com**
 
 - ⚡ Fact from EXP **At Some Point, you have to realize that some people can stay in your heart, but not in your life.**
 
