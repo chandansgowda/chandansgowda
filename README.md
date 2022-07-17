@@ -3,23 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chandansgowdru" target="blank"><img src="https://img.shields.io/twitter/follow/chandansgowdru?logo=twitter&style=for-the-badge" alt="chandansgowdru" /></a> </p>
-
 - 🔭 I’m currently working on **Pgfy**
 
 - 🌱 I’m currently learning **CP and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chandansgowda](https://github.com/chandansgowda)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/chandansgowda)
 
-- 📽️ I regularly upload videos on [https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg](My Youtube Channel)
+- 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg)
 
-- 💬 Ask me about **Entrepreneurship, Programming, CyberSec**
+- 💬 Ask me about **Entrepreneurship, Programming, App Dev, CyberSec**
 
 - 📫 How to reach me **chandansgowda167@gmail.com**
 
 - ⚡ Fact from EXP **At Some Point, you have to realize that some people can stay in your heart, but not in your life.**
 
-- Goals till next birthday **6 Star on Codechef and 15 Apps on Play Store**
+- 🥅 Goals till next birthday **6 Star on Codechef and 15 Apps on Play Store**
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandansgowda&show_icons=true&locale=en" alt="chandansgowda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandansgowda&" alt="chandansgowda" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,9 +38,5 @@
 
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandansgowda&show_icons=true&locale=en" alt="chandansgowda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandansgowda&" alt="chandansgowda" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chandansgowda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandansgowda" /></a></p><br><br>
