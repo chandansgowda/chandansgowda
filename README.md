@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
-- 🔭 I’m currently working on **Pgfy**
-
-- 🌱 I’m currently learning **CP and Flutter**
+- 🌱 I’m currently learning **DSA in C++ and Flutter**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/chandansgowda)
 
