@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
-- 🌱 I’m currently learning **DSA in C++ and Flutter**
+- 🌱 I’m currently learning **DSA in Python, Django REST API and Flutter**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/chandansgowda)
 
 - 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg)
 
-- 💬 Ask me about **Entrepreneurship, Programming, App Dev, CyberSec**
+- 💬 Ask me about **Programming, Flutter Development, Cyber Security**
 
 - 📫 How to reach me **chandansgowda167@gmail.com**
 
 - ⚡ Fact from EXP **At Some Point, you have to realize that some people can stay in your heart, but not in your life.**
-
-- 🥅 Goals till next birthday **6 Star on Codechef and 15 Apps on Play Store**
 
 <h3 align="left">GitHub Stats:</h3>
 
