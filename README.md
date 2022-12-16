@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
-- 🌱 I’m currently learning **DSA in Python, Django REST API and Flutter**
+- 🌱 I’m currently learning **DSA in Python and Data Science**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/chandansgowda)
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **Programming, Flutter Development, Cyber Security**
 
 - 📫 How to reach me **chandansgowda167@gmail.com**
-
-- ⚡ Fact from EXP **At Some Point, you have to realize that some people can stay in your heart, but not in your life.**
 
 <h3 align="left">GitHub Stats:</h3>
 
