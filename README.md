@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
-- 🌱 I’m currently learning **Data Science and System Design**
+- 🌱 I’m currently learning **Golang and System Design**
 
 - 👨‍💻 I’m currently working on [Resonate](https://github.com/AOSSIE-Org/Resonate)
+
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/chandansgowda)
 
