@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
-- 🌱 I’m currently learning **Golang and System Design**
+- 🌱 I’m currently learning **System Design and Agentic AI**
 
-- 👨‍💻 I’m currently working on [Resonate](https://github.com/AOSSIE-Org/Resonate)
+- 👨‍💻 I’m currently working on [Devr.AI](https://github.com/AOSSIE-Org/Devr.AI) and [InPactAI](https://github.com/AOSSIE-Org/InPactAI)
 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
 
@@ -13,7 +13,7 @@
 
 - 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg)
 
-- 💬 Ask me about **Programming, Flutter Development, Cyber Security**
+- 💬 Ask me about **Apps, Backend and Artificial Intelligence**
 
 - 📫 Reach out to me at **chandansgowda167@gmail.com**
 
